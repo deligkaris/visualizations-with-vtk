@@ -1,1 +1,2 @@
-# visualizations-with-vtk
+# Visualizations with VTK
+
